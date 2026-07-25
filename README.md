@@ -65,6 +65,6 @@
 
 ### 制作人
 
-- **GYC** — Hispirit 团队
+- **葛悦辰** — Hispirit 团队
 - 项目名称：农村村务管理系统 (CountryManageSystem)
-- 版本：1.0.0
+- 版本：1.0.18
