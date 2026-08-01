@@ -123,7 +123,7 @@ CountryManageSystem/
 | **制作人** | GYC |
 | **团队** | Hispirit 团队 |
 | **项目名称** | 农村村务管理系统 (CountryManageSystem) |
-| **版本** | 1.0.0 |
+| **版本** | 1.0.17 |
 | **技术栈** | Python 3.13 / Django 6.0 / React 19 / TypeScript 5 |
 | **数据库** | MySQL 8+ / SQLite |
 | **许可证** | 专有软件，保留所有权利 |
